@@ -1,0 +1,2 @@
+# CodeGenerationAI
+SmartInternz Group Project
