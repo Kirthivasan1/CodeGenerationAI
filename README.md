@@ -1,2 +1,7 @@
 # CodeGenerationAI
-SmartInternz Group Project
+SmartInternz Group Project. <br/>
+By,
+1. KIRTHIVASAN R - 22BCT0210 
+2. M. FATHIMA RIZWANA - 23BEE1180 
+3. KUMARAN R – 22BDS0156 
+4. SUJITHKUMAR S – 22BCT0040
